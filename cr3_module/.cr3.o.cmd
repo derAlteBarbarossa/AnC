@@ -1,0 +1,1 @@
+cmd_/home/shahriar/Desktop/Main/Learning_Phase2/AnC/cr3_module/cr3.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/shahriar/Desktop/Main/Learning_Phase2/AnC/cr3_module/cr3.o /home/shahriar/Desktop/Main/Learning_Phase2/AnC/cr3_module/module.o 
